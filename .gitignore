@@ -1,0 +1,5 @@
+.idea/
+/drf/__pycache__/
+__pycache__/
+venv/
+/drf/db.sqlite3
